@@ -8,10 +8,7 @@
 </head>
 <body>
 	<center>		
-		<h2>
-			<%-- ${mensagem} --%>
-		</h2>
-		<h2>Hello World</h2>
+		<h2>Hello, ${name} </h2>
 	</center>
 </body>
 </html>
